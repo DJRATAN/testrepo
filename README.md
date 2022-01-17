@@ -1,3 +1,3 @@
 # testrepo
 learning git
-two complete course
+today complete course
